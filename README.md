@@ -1,6 +1,9 @@
 # Guess My Number Game
 
 A simple number guessing game. 
+
+Play here: https://htmlpreview.github.io/?https://github.com/FoxNineOne/Guess-My-Number-Game/blob/main/index.html
+
 The computer will generate a hidden number that is between 1 and 20. 
 
 You will need to enter a number to guess what the hidden number is. 
